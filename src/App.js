@@ -3,8 +3,8 @@ import Recipe from "./Recipe";
 import "./App.css";
 
 const App = () => {
-  const APP_ID = "7e202815";
-  const APP_KEY = "e94c5515cab02cf3938486201f01ac2b";
+  const APP_ID = "";
+  const APP_KEY = "";
 
   //const exampleReq = `https://api.edamam.com/search?q=chicken&app_id=${APP_ID}&app_key=${APP_KEY}`;
 
